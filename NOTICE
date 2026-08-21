@@ -1,0 +1,16 @@
+AI Self-Media Video Packaging Skill
+Copyright 2026 小杰
+Author and maintainer: 小杰
+
+This distribution contains software released under the MIT License. See
+LICENSE for the required copyright notice and permission terms.
+
+Remotion is used as a dependency and has its own license and commercial-use
+terms. Review https://www.remotion.dev/license before commercial use.
+
+HyperFrames can be used through the optional adapter and remains subject to
+its upstream license. Review the selected package and upstream repository
+before use.
+
+Names, portraits, logos, trademarks, and third-party media are not granted by
+the MIT License unless a file explicitly states otherwise.
